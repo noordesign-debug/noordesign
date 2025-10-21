@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MLM Earning Simulator",
+  "description": "A web application that simulates an MLM app where users can view ad placeholders to understand earning concepts. This app is a UI/UX demonstration and does not involve real money or real ads.",
+  "requestFramePermissions": []
+}
